@@ -1,7 +1,8 @@
 .venv/
 __pycache__/
+.pytest_cache/
 settings.json
-seen_jobs.json
+job_history.json
 results.md
 *.pyc
 *.pyo
@@ -24,5 +25,5 @@ results.md
 *.log.*.*.*.*.*.*.*.*
 *.log.*.*.*.*.*.*.*.*.*
 
-settings.json
+
 
